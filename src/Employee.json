@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bonnie",
+    "department": "FrontEnd",
+    "location": "local"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Hyde",
+    "department": "Frontend",
+    "location": "local"
+  },
+  {
+    "id": 3,
+    "name": "Steve",
+    "department": "frontend",
+    "location": "local"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "department": "backend",
+    "location": "local"
+  },
+  {
+    "id": 5,
+    "name": "Harry",
+    "department": "backend",
+    "location": "remote"
+  },
+  {
+    "id": 6,
+    "name": "Doug ",
+    "department": "frontend",
+    "location": "remote"
+  },
+  {
+    "id": 7,
+    "name": "Bob",
+    "department": "frontend",
+    "location": "local"
+  },
+  {
+    "id": 8,
+    "name": "Johnny",
+    "department": "backend",
+    "location": "remote"
+  },
+  {
+    "id": 9,
+    "name": "Tommy ",
+    "department": "frontend",
+    "location": "local"
+  },
+  {
+    "id": 10,
+    "name": "Lisa",
+    "department": "frontend",
+    "location": "remote"
+  },
+  {
+    "id": 11,
+    "name": "Fry",
+    "department": "backend",
+    "location": "remote"
+  },
+  {
+    "id": 12,
+    "name": "Caroline",
+    "department": "frontend",
+    "location": "local"
+  }
+]
